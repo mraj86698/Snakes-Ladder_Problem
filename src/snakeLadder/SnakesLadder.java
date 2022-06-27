@@ -17,7 +17,7 @@ public class SnakesLadder {
 		
 		switch (option) {
         case 1:
-            System.out.println("Play");
+            
             System.out.println("Dice " + number);
             
 		if(option == 0) {
