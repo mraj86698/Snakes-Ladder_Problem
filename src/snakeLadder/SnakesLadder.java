@@ -44,12 +44,7 @@ public class SnakesLadder {
 		            System.out.println("Player current position is " + position);
 		        }
 		break;
-        case 2:
-            System.out.println("exit");
-            
-        case 3:
-            System.out.println("Invalid input");
-            break;
+
 	}
 		i++;
 		}
